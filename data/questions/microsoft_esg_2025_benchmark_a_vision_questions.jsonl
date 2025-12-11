@@ -1,0 +1,14 @@
+{"category": "Figure Cropping Accuracy", "question": "List the y-axis labels shown in the chart on Page 29."}
+{"category": "Figure Cropping Accuracy", "question": "List the x-axis labels shown beneath the bars in the chart on Page 30."}
+{"category": "Figure Cropping Accuracy", "question": "Extract the unit label from the y-axis on Page 37."}
+{"category": "Chart Perceptual Accuracy", "question": "According to the 'Total contracted volume water replenishment' bar chart on page 29, what was the replenishment volume shown above the FY21 bar?"}
+{"category": "Chart Perceptual Accuracy", "question": "In the 'Packaging recyclability' bar chart on page 45, which bar is visually shorter than the bar immediately before it?"}
+{"category": "Chart Perceptual Accuracy", "question": "In the 'Cumulative total of projects contracted' chart on page 30, what number is displayed above the FY22 bar?"}
+{"category": "Table Detection & Localization", "question": "Analyze the structure of 'Water Table 2' on page 30: Does the table contain explicit column headers? Additionally, how many data rows and columns are present?"}
+{"category": "Table Detection & Localization", "question": "Identify the full title of 'Water Table 1' found on page 29."}
+{"category": "Table Detection & Localization", "question": "In the 'Scope 3 Categories' table on the left side of page 13, what are the labels for the first three rows?"}
+{"category": "Reading Order Preservation", "question": "On page 29, in the 'Advancing water replenishment' section, what complete sentence immediately follows the text ending in '...catalyze progress across industries and communities worldwide.'?"}
+{"category": "Reading Order Preservation", "question": "On page 30, identify the specific text contained within the blue callout box that features the large '+50%' statistic."}
+{"category": "Table Data Extraction", "question": "According to 'Carbon Table 2' on page 13, what is the specific percentage value associated with 'Purchased Goods and Services' (Category 1)?"}
+{"category": "Table Data Extraction", "question": "On page 49, under the 'Protecting ecosystems' section, what is the exact acreage listed for 'Total land protected'?"}
+{"category": "Table Data Extraction", "question": "In the 'Replenishment activities' table on page 30 (Water Table 2), what percentage of the total portfolio is attributed to 'Rainwater harvesting'?"}
